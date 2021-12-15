@@ -20,3 +20,7 @@ Node.js is necessary to run this application. It is recommended that users copy 
 ![image](Terminal_View.png)
 
 ![image](schema.png)
+
+## Demo video
+
+![video](https://drive.google.com/file/d/1w1_yY1605cctoOdXO-ZM2x_As1vYj0BY/view?usp=sharing)

@@ -8,17 +8,6 @@
     "start": "node ./index.js",
     "watch": "nodemon ./db/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kmvanneste/Employee-Management-System.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kmvanneste/Employee-Management-System/issues"
-  },
-  "homepage": "https://github.com/kmvanneste/Employee-Management-System#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "express": "^4.17.1",
